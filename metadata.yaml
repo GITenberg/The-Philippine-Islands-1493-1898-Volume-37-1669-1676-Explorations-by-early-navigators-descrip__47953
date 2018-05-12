@@ -1,4 +1,5 @@
 _repo: The-Philippine-Islands-1493-1898-Volume-37-1669-1676-Explorations-by-early-navigators-descrip__47953
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Bourne, Edward Gaylord
@@ -18,7 +19,12 @@ contributor:
       deathdate: 1911
       gutenberg_agent_id: '2296'
       url: http://www.gutenberg.org/2009/agents/2296
+covers:
+- cover_type: archival
+  image_path: 47953-h/images/new-cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47953#The-Philippine-Islands-1493-1898-Volume-37-1669-1676-Explorations-by-early-navigators-descrip_
 gutenberg_issued: '2015-01-13'
 gutenberg_type: Text
 identifiers:
